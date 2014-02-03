@@ -1,15 +1,18 @@
 [
   {
     "repository": "SlimRoms/device_motorola_qcom-common",
-    "target_path": "device/motorola/qcom-common"
+    "target_path": "device/motorola/qcom-common",
+    "branch":      "kk4.4"
   },
   {
     "repository": "SlimRoms/device_motorola_msm8960dt-common",
-    "target_path": "device/motorola/msm8960dt-common"
+    "target_path": "device/motorola/msm8960dt-common",
+    "branch":      "kk4.4"
   },
   {
     "repository": "SlimRoms/kernel_motorola_msm8960dt-common",
-    "target_path": "kernel/motorola/msm8960dt-common"
+    "target_path": "kernel/motorola/msm8960dt-common",
+    "branch":      "kk4.4"
   },
   {
     "repository":  "SlimRoms/vendor_motorola",
