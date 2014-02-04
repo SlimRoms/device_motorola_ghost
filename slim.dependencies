@@ -33,5 +33,10 @@
     "repository":  "SlimRoms/hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
     "branch":      "kk4.4"
+  },
+  {
+    "repository":  "Cyanogenmod/android_external_f2fs-tools",
+    "target_path": "external/f2fs-tools",
+    "branch":      "cm-11.0"
   }
 ]
