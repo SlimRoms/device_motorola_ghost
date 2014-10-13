@@ -5,7 +5,7 @@
     "branch":      "kk4.4"
   },
   {
-    "repository":  "SlimRoms/android_device_qcom_common",
+    "repository":  "SlimRoms/device_qcom_common",
     "target_path": "device/qcom/common",
     "branch":      "kk4.4"
   },
